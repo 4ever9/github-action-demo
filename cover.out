@@ -1,0 +1,3 @@
+mode: atomic
+github.com/4ever9/github-action-demo/main.go:5.13,7.2 1 0
+github.com/4ever9/github-action-demo/print.go:3.24,5.2 1 1
